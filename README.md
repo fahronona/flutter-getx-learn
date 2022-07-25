@@ -1,5 +1,11 @@
 # learn_getx
 
+## Screenshoot
+
+<img width="200" alt="Screen Shot 2022-07-25 at 17 01 21" src="https://user-images.githubusercontent.com/43464944/180751597-be6c8143-33aa-49b2-8c81-143c02077617.png"><img width="200" alt="Screen Shot 2022-07-25 at 17 02 41" src="https://user-images.githubusercontent.com/43464944/180751749-0ddded3d-219b-4579-ad0e-8fe43601f06f.png">
+
+
+
 A new Flutter project.
 
 ## Getting Started
